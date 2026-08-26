@@ -1,30 +1,45 @@
+<div align="center">
+
 ### Hi, I'm WisdomToNorth
 
-Software engineer building local-first tools and shared workspace infrastructure across C++, Qt/QML, Swift, Python, and mixed stacks.
+Software engineer building local-first tools and shared workspace infrastructure
+across C++, Qt/QML, Swift, Python, and mixed stacks.
 
-**What I work on**
+</div>
 
-- **[FreeCM](https://github.com/NorthBoundWisdom/FreeCM)** — Shared source-root and workflow infrastructure for large multi-repository workspaces.
-- **[Ravo](https://github.com/NorthBoundWisdom/Ravo)** — A photo library and RAW editor rebuilt for local photography workflows.
-- **[GeoControls](https://github.com/NorthBoundWisdom/GeoControls)** — Reusable Qt/QML controls and application-shell components.
-
-**Stack**
-
-`C++` · `Qt / QML` · `Python` · `Swift` · `CMake` · `C# / .NET` · `Android`
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=NorthBoundWisdom&show_icons=true&theme=dracula&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api?username=NorthBoundWisdom&show_icons=true&theme=default&hide_border=true">
-    <img height="165" alt="GitHub stats" src="https://github-readme-stats.shion.dev/api?username=NorthBoundWisdom&show_icons=true&theme=dracula&hide_border=true">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=NorthBoundWisdom&layout=compact&theme=dracula&hide_border=true&exclude_repo=NorthBoundWisdom,rawspeed,freetype,CavalierContours,CavalierContoursDev">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=NorthBoundWisdom&layout=compact&theme=default&hide_border=true&exclude_repo=NorthBoundWisdom,rawspeed,freetype,CavalierContours,CavalierContoursDev">
-    <img height="165" alt="Top languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=NorthBoundWisdom&layout=compact&theme=dracula&hide_border=true&exclude_repo=NorthBoundWisdom,rawspeed,freetype,CavalierContours,CavalierContoursDev">
-  </picture>
-</p>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/NorthBoundWisdom/FreeCM">FreeCM</a></h3>
+      Shared source-root and workflow infrastructure for large multi-repository workspaces.
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/NorthBoundWisdom/Ravo">Ravo</a></h3>
+      A photo library and RAW editor rebuilt for local photography workflows.
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/NorthBoundWisdom/GeoControls">GeoControls</a></h3>
+      Reusable Qt/QML controls and application-shell components.
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="./profile/streak.svg" alt="GitHub streak">
+  <img src="https://skillicons.dev/icons?i=cpp,qt,python,swift,cmake,cs,android&theme=dark" alt="C++, Qt, Python, Swift, CMake, C#, Android">
 </p>
+
+<table align="center">
+  <tr>
+    <td>
+      <img width="400" height="155" alt="GitHub stats" src="https://github-readme-stats.shion.dev/api?username=NorthBoundWisdom&show_icons=true&hide_rank=true&hide_border=true&bg_color=0B1220&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9">
+    </td>
+    <td>
+      <img width="400" height="155" alt="Top languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=NorthBoundWisdom&layout=compact&hide_border=true&bg_color=0B1220&title_color=58A6FF&text_color=C9D1D9&exclude_repo=NorthBoundWisdom,rawspeed,freetype,CavalierContours,CavalierContoursDev">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img width="495" alt="GitHub streak" src="./profile/streak.svg">
+    </td>
+  </tr>
+</table>
