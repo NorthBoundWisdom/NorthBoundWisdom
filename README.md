@@ -1,7 +1,35 @@
-### Hi there 👋
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=NorthBoundWisdom\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=NorthBoundWisdom\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-light-mode-only)
+### Hi, I'm WisdomToNorth
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NorthBoundWisdom&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+Software engineer building local-first tools and shared workspace infrastructure across C++, Qt/QML, Swift, Python, and mixed stacks.
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=NorthBoundWisdom&theme=dracula)](https://git.io/streak-stats)
+**What I work on**
+
+- **[FreeCM](https://github.com/NorthBoundWisdom/FreeCM)** — Shared source-root and workflow infrastructure for large multi-repository workspaces.
+- **[Ravo](https://github.com/NorthBoundWisdom/Ravo)** — A photo library and RAW editor rebuilt for local photography workflows.
+- **[GeoControls](https://github.com/NorthBoundWisdom/GeoControls)** — Reusable Qt/QML controls and application-shell components.
+- **[PcbKnowledge](https://github.com/NorthBoundWisdom/PcbKnowledge)** — A Git-native, evidence-backed PCB engineering knowledge repository and review tool.
+
+**Stack**
+
+`C++` · `Qt / QML` · `Python` · `Swift` · `CMake` · `C# / .NET` · `Android`
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=NorthBoundWisdom&show_icons=true&theme=dracula&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api?username=NorthBoundWisdom&show_icons=true&theme=default&hide_border=true">
+    <img height="165" alt="GitHub stats" src="https://github-readme-stats.shion.dev/api?username=NorthBoundWisdom&show_icons=true&theme=dracula&hide_border=true">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=NorthBoundWisdom&layout=compact&theme=dracula&hide_border=true&exclude_repo=NorthBoundWisdom,rawspeed,freetype,CavalierContours,CavalierContoursDev">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=NorthBoundWisdom&layout=compact&theme=default&hide_border=true&exclude_repo=NorthBoundWisdom,rawspeed,freetype,CavalierContours,CavalierContoursDev">
+    <img height="165" alt="Top languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=NorthBoundWisdom&layout=compact&theme=dracula&hide_border=true&exclude_repo=NorthBoundWisdom,rawspeed,freetype,CavalierContours,CavalierContoursDev">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=NorthBoundWisdom&theme=dracula&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=NorthBoundWisdom&theme=default&hide_border=true">
+    <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=NorthBoundWisdom&theme=dracula&hide_border=true">
+  </picture>
+</p>
