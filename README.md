@@ -7,7 +7,6 @@ Software engineer building local-first tools and shared workspace infrastructure
 - **[FreeCM](https://github.com/NorthBoundWisdom/FreeCM)** — Shared source-root and workflow infrastructure for large multi-repository workspaces.
 - **[Ravo](https://github.com/NorthBoundWisdom/Ravo)** — A photo library and RAW editor rebuilt for local photography workflows.
 - **[GeoControls](https://github.com/NorthBoundWisdom/GeoControls)** — Reusable Qt/QML controls and application-shell components.
-- **[PcbKnowledge](https://github.com/NorthBoundWisdom/PcbKnowledge)** — A Git-native, evidence-backed PCB engineering knowledge repository and review tool.
 
 **Stack**
 
@@ -27,9 +26,5 @@ Software engineer building local-first tools and shared workspace infrastructure
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=NorthBoundWisdom&theme=dracula&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=NorthBoundWisdom&theme=default&hide_border=true">
-    <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=NorthBoundWisdom&theme=dracula&hide_border=true">
-  </picture>
+  <img src="./profile/streak.svg" alt="GitHub streak">
 </p>
