@@ -9,15 +9,11 @@ across C++, Qt/QML, Swift, Python, and mixed stacks.
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/NorthBoundWisdom/FreeCM">FreeCM</a></h3>
       Shared source-root and workflow infrastructure for large multi-repository workspaces.
     </td>
-    <td width="33%" valign="top">
-      <h3><a href="https://github.com/NorthBoundWisdom/Ravo">Ravo</a></h3>
-      A photo library and RAW editor rebuilt for local photography workflows.
-    </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/NorthBoundWisdom/GeoControls">GeoControls</a></h3>
       Reusable Qt/QML controls and application-shell components.
     </td>
