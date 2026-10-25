@@ -31,6 +31,6 @@ across C++, Qt/QML, Swift, Python, and mixed stacks.
 </table>
 
 <p align="center">
-  <img height="165" alt="GitHub stats" src="https://github-readme-stats.shion.dev/api?username=NorthBoundWisdom&show_icons=true&hide_rank=true&hide_border=true&bg_color=0B1220&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9">
-  <img height="165" alt="GitHub streak" src="./profile/streak.svg">
+  <img width="42%" alt="GitHub stats" src="https://github-readme-stats.shion.dev/api?username=NorthBoundWisdom&show_icons=true&hide_rank=true&hide_border=true&bg_color=0B1220&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9">
+  <img width="55%" alt="GitHub streak" src="./profile/streak.svg">
 </p>
